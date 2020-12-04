@@ -1,0 +1,27 @@
+.navbar {
+    min-height: 70px;
+    max-height: 70px;
+  }
+  
+  .navbar-brand {
+    padding: 0 15px;
+    height:110px;
+    line-height: 70px;
+  }
+  
+  .navbar-toggle {
+    /* (80px - button height 34px) / 2 = 23px */
+    margin-top: 23px;
+    padding: 9px 10px !important;
+  }
+  .nav-item{
+    margin-right: 80px;
+  }
+  #BuTTon{
+    color: rgb(4, 16, 66);
+  }
+  #Logo {
+    text-align: left;
+    color: rgba(9, 37, 53, 0.719);
+    margin-top: 20px;
+  }

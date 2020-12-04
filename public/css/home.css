@@ -1,0 +1,24 @@
+.dropdown:hover>.dropdown-menu{display:block;}
+.nav-item{
+  margin-right: 20px;
+  margin-left: 20px;
+}
+.navbar-toggle {
+  margin-top: 23px;
+  padding: 9px 10px !important;
+}
+.dropdown-toggle{
+  font-family: "Lato", sans-serif
+}
+.dropdown-item{
+  font-family: "Montserrat", sans-serif;
+}
+footer{
+  color: #888888;
+  border: 1px solid #eeeeee;
+  margin: 0 auto;
+}
+a:hover {
+  cursor: pointer;
+}
+
